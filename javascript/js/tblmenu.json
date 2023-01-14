@@ -1,0 +1,26 @@
+[
+    {
+        "idmenu": 1,
+        "idkategori": 1,
+        "menu": "Apple",
+        "harga": 5000,
+        "warna": [
+            "Merah",
+            "Hijau"
+        ],
+        "stock": true,
+        "keterangan": null
+    },
+    {
+        "idmenu": 2,
+        "idkategori": 2,
+        "menu": "Bakso",
+        "harga": 10000,
+        "warna": [
+            "Halus",
+            "Kasar"
+        ],
+        "stock": true,
+        "keterangan": null
+    }
+]
